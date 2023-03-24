@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raima Islam</h1>
 <h3 align="center">An aspiring machine learning engineer from Bangladesh</h3>
-<img align ="right" alt="coding" width ="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2498700-Toptal-Scholarship-for-Female-Developers-Winner&psig=AOvVaw1LG4hSXnp38MmemGnpF49J&ust=1679744769262000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOC9k4W_9P0CFQAAAAAdAAAAABAD">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raima2001&label=Profile%20views&color=0e75b6&style=flat" alt="raima2001" /> </p>
 
