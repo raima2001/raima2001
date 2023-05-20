@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raima2001" alt="raima2001" /></a> </p>
 
-- 🔭 I’m currently working on **CAFEL: Confidence-Aware Uncertainty Balancing for Robust Facial Expression Learning**
+- 🔭 I’m currently working on **SSDG: Self Supervised Deep Generative Graph-Aware Representation Learning for Drug Drug Interaction Prediction**
 
 - 🌱 I’m currently learning **PyTorch**
 
